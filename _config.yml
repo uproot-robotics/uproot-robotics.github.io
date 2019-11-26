@@ -16,7 +16,6 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "UpRoot Robotics"
 description:	       "Chemical-free Autonomous Weeding"
-author:              "UW FYDP"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
