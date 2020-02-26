@@ -4,10 +4,10 @@ title: Sponsors
 ---
 {% capture htmlblock %}
     <div class="contained-img">
-        {% for image in site.static_files %}
-            {% if image.path contains 'img/sponsor_logos' %}
-                <img src="{{ site.baseurl }}{{ image.path }}" alt="image"/>
-            {% endif %}
+        {% for sponsor in site.data.sponsors %}
+            <a href="{{ sponsor.url }}">
+                <img src="{{ sponsor.img }}" alt="image"/>
+            </a>
         {% endfor %}
     </div>
 {% endcapture %}
