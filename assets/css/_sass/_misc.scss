@@ -9,3 +9,8 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.contained-img img {
+  width: 20vw;
+  height: 15vw;
+  object-fit: contain;
+}
