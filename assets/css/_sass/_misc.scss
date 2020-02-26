@@ -12,5 +12,8 @@
 .contained-img img {
   width: 20vmax;
   height: 15vmax;
+  min-width: 200px;
+  min-height: 150px;
   object-fit: contain;
 }
+
