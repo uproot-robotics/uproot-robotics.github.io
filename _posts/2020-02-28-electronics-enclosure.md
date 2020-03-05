@@ -13,10 +13,7 @@ A wise man told us that the state of our wires might scare small children and th
 
 I took a sheet of 6061 aluminum generously abandoned in the Mechatronics Surplus System and drew up our electronic systems and all of their pertinent internal and external connections. 
 
-
-<img src="/assets/img/enclosureDesign.png" alt="drawing" width="400"/>
-
-
+![drawing](/assets/img/enclosureDesign.png)
 
 ## The Plan
 
@@ -24,12 +21,10 @@ The press brake in the shop was unfortunately not accommodating enough to enable
 
 ![bending](/assets/img/makingbigbox.jpg)
 
-<img src="/assets/img/makingbigbox.jpg" alt="bending on the table" width="400"/>
-
 ## The Finale
 
-<img src="/assets/img/enclosureontable.jpg" alt="folded enclosure" width="400"/>
+![foldedBox](/assets/img/enclosureontable.jpg)
 
+![BoxOnRobot](/assets/img/silverbullet.jpg)
 
-<img src="/assets/img/silverbullet.jpg" alt="folded enclosure on robot" width="400"/>
 
