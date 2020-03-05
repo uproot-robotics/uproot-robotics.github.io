@@ -4,7 +4,7 @@ title: "Working Out"
 author: "John"
 categories: updates
 tags: [updates]
-image: arm_over_bed.jpg
+image: biceppios.jpg
 ---
 
 As we ramp up testing, it's time to buff up our robot...

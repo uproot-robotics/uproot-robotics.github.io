@@ -22,7 +22,7 @@ I took a sheet of 6061 aluminum generously abandoned in the Mechatronics Surplus
 
 The press brake in the shop was unfortunately not accommodating enough to enable the completion of the enclosure folding. With a bit of brainstorming with the technicians in the shop, however, we were able to come up with a brilliant solution to finish off the last two bends! The result was a gorgeous enclosure for all of our electronics. 
 
-![bending](/assets/img/test_images/makingbigbox.jpg)
+![bending](/assets/img/makingbigbox.jpg)
 
 <img src="/assets/img/makingbigbox.jpg" alt="bending on the table" width="400"/>
 
