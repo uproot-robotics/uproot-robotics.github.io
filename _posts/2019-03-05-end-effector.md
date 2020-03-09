@@ -15,7 +15,7 @@ Therefore, we decided a rotating blade end effector design would be most effecti
 
 The weed removal end effector design is shown below. 
 
-![biceppress](/assets/img/biceppress.jpg)
+![end1](/assets/img/End_Effector_1.png)
 
 ### Demo End Effector Design
 
@@ -25,4 +25,4 @@ We decided to switch the blade for a plastic servo motor arm, so viewers will st
 
 The demo end effector is compared against the weed removal end effector  below.
 
-![biceppress](/assets/img/biceppress.jpg)
+![end2](/assets/img/End_Effector_1.png)
