@@ -25,4 +25,4 @@ We decided to switch the blade for a plastic servo motor arm, so viewers will st
 
 The demo end effector is compared against the weed removal end effector  below.
 
-![end2](/assets/img/End_Effector_1.png)
+![end2](/assets/img/End_Effector_2.png)
