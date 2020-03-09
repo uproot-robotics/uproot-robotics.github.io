@@ -23,6 +23,6 @@ For the demonstration at Symposium, it would be a risk to the public to have a r
 
 We decided to switch the blade for a plastic servo motor arm, so viewers will still be able to see the end effector motor switching on and off. As the end effector will no longer be able to cut through anything, we designed simulation weeds that can be toppled over by the new end effector. Through testing we also realized we can use a significantly smaller motor for the demonstration which will save power throughout the day, so we switched to a smaller micro-metal motor. 
 
-The demo end effector is compared against the weed removal end effector  below.
+The demo end effector is shown toppling a "weed" in the following video. 
 
-![end2](/assets/img/End_Effector_2.png)
+![end2](/assets/img/End-Effector-3.gif)
