@@ -4,7 +4,7 @@ title: "One Robot, Two End Effectors"
 author: "Emily"
 categories: updates
 tags: [updates]
-image: biceppios.jpg
+image: End_Effector_2.png
 ---
 
 ### Weed Removal End Effector Design
